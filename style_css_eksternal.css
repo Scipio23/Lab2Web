@@ -29,6 +29,14 @@ nav a:hover {
     border: 0;
     color: rgb(156, 0, 204);
 }
+#intro p{
+    border: 5px solid #ffee00
+}
+#paragraf-1{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    background: rgb(255, 238, 0);
+}
 
 /* Class Selector */
 .button {
@@ -40,5 +48,9 @@ nav a:hover {
     text-decoration: none;
 }
 .btn-primary {
-    background: #ffe600;
+    background: #000000;
+}
+.text-paragraf{
+    color: rgb(0, 204, 255);
+    text-align: center;
 }
